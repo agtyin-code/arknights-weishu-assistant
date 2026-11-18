@@ -16,7 +16,7 @@
 
 刚上手的时候，可以照着一图流知道每本先拿谁，核心没来就找张过渡。打熟了，可以拿它看看冷门搭配还有没有继续玩的机会。喜欢自己拿牌的，开着图鉴和敌情也行。
 
-[下载助手](https://github.com/agtyin-code/arknights-weishu-assistant/releases) · [安装和快捷键](#安装启动和快捷键) · [版本说明](RELEASE_NOTES.md)
+[下载助手](https://github.com/agtyin-code/arknights-weishu-assistant/releases) · [点击直接下载](https://github.com/agtyin-code/arknights-weishu-assistant/releases/download/v0.11.5-preview.1/WeishuAssistant-0.11.5-win-x64-setup.exe) · [安装和快捷键](#安装启动和快捷键) · [版本说明](RELEASE_NOTES.md)
 
 **按功能找**
 
