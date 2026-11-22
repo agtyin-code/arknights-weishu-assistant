@@ -6,9 +6,9 @@
 
 ![卫戍助手 · 0.11.6 预览版，右侧为游戏内的助手提示](docs/images/readme-hero-0116.jpg)
 
-[下载助手](https://github.com/agtyin-code/arknights-weishu-assistant/releases) · **[点击直接下载](https://github.com/agtyin-code/arknights-weishu-assistant/releases/download/v0.11.6-preview.1/WeishuAssistant-0.11.6-win-x64-setup.exe)** · [三步上手](#安装启动和快捷键) · [0.11.6 更新内容](https://github.com/agtyin-code/arknights-weishu-assistant/releases/tag/v0.11.6-preview.1)
+[下载助手](https://github.com/agtyin-code/arknights-weishu-assistant/releases) · **[点击直接下载](https://github.com/agtyin-code/arknights-weishu-assistant/releases/download/v0.12.0-preview.7/WeishuAssistant-0.12.0-preview.7-win-x64-setup.exe)** · [三步上手](#安装启动和快捷键) · [0.12.0-preview.7 更新内容](https://github.com/agtyin-code/arknights-weishu-assistant/releases/tag/v0.12.0-preview.7)
 
-`Windows x64` · `明日方舟 PC 端` · `0.11.6 预览版`
+`Windows x64` · `明日方舟 PC 端` · `0.12.0-preview.7`
 
 ## 这款卫戍辅助软件能做什么？
 
