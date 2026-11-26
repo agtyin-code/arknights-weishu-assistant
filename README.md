@@ -2,14 +2,13 @@
 
 ## 更新说明
 
-**0.12.0-preview.7** · 2026 年 11 月 22 日 · 上一版 0.11.6
+**0.12.0-preview.11** · 2026 年 11 月 26 日 · 上一版 0.12.0-preview.7
 
-- **Boss 战和防守输出。** Boss 战顶部显示每位玩家打掉了 Boss 总血量的多少。普通防守显示每名干员占全队本场总伤害的比例，下沿可以折叠。
-- **怪物机制和路线。** 按 `W` 查属性、阻挡和特殊能力，点「查看路线」看所选怪在本方棋盘上怎么走。修了联机地图绕路画成直线的问题，进出详情也更快了。
-- **流派、站位和装备。** 流派列表常见布局一页四条，字号和卡片大小照旧。站位图和八人装备图放到同一页，商店卡上方的标注会随窗口比例重新定位。
-- **界面和显示设置。** 等待页换上深巡海报。图鉴和局内面板重新排版，战前胜率、输出统计、商店和运营建议都可以单独开关。
+- **联机商店提示。** 绝境模拟从四个卡位开到六个卡位，拿牌提示都会贴着各自的牌显示。买牌或刷新后，推荐跟着新商店更新。
+- **流派和站位。** 同一局手动选过的流派可以跨回合保留。站位建议放大了字号，位置和朝向分行显示，全屏时鼠标移到助手按钮上也能看见指针。
+- **Boss 个人输出。** 每位玩家的占比按累计对 Boss 造成的伤害除以 Boss 总血量计算。游戏传来新记录后，顶部直接更新。结算沿用上一笔记录时会标出「上次读数」。
 
-[点击直接下载 Windows x64 安装包](https://github.com/agtyin-code/arknights-weishu-assistant/releases/download/v0.12.0-preview.7/WeishuAssistant-0.12.0-preview.7-win-x64-setup.exe) · [完整更新说明](https://github.com/agtyin-code/arknights-weishu-assistant/releases/tag/v0.12.0-preview.7) · [历史版本](https://github.com/agtyin-code/arknights-weishu-assistant/releases)
+[点击直接下载 Windows x64 安装包](https://github.com/agtyin-code/arknights-weishu-assistant/releases/download/v0.12.0-preview.11/WeishuAssistant-0.12.0-preview.11-win-x64-setup.exe) · [完整更新说明](https://github.com/agtyin-code/arknights-weishu-assistant/releases/tag/v0.12.0-preview.11) · [历史版本](https://github.com/agtyin-code/arknights-weishu-assistant/releases)
 
 ## 这款助手能做什么？
 
